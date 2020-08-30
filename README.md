@@ -33,5 +33,3 @@
 [twitter]: https://twitter.com/hackingguyak
 [instagram]: https://www.instagram.com/_aakash_chhabra/
 [linkedin]: https://www.linkedin.com/in/akashchhabra710
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhackingguy" style="display: none;" alt="Hits">
