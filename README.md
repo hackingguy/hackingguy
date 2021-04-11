@@ -3,7 +3,7 @@
 ## I love to learn Ethical Hacking, Data Structures and Technical Stuff!
 - 🔭 I’m currently in college pursuing my B.Tech
 - 🌱 I’m currently learning everything in technology 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack and learn all day
 
 ### Connect with me:
