@@ -6,6 +6,8 @@
 - 🥅 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack and learn all day
 
+[![Visits Badge](https://badges.pufler.dev/visits/hackingguy/hackingguy)](https://hackingguy.ml)
+
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -25,7 +27,6 @@
 
 <br>
 <br>
-
 
 <img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hackingguy&show_icons=true&hide_border=true" />
 
