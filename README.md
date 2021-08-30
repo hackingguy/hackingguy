@@ -1,8 +1,8 @@
 ### Hi there, I'm Akash Chhabra - aka [hackingguy][website] 👋
 
 ## I love doing Web App Pentesting, Backend Development and Programming!
-- 🔭 I’m currently in college pursuing my B.Tech and doing a SDE Intern.
-- 🌱 I’m currently trying to improve my problem solving skills.
+- 🔭 I’m currently in college pursuing my B.Tech and upcoming Software Developer at Oracle.
+- 🌱 I’m love to work in Backend and Penetration Testing stuff.
 - 🥅 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack and learn all day
 
@@ -32,7 +32,7 @@
 
 <img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hackingguy&show_icons=true&hide_border=true" />
 
-[website]: https://hackingguy.ml/
-[twitter]: https://twitter.com/hackingguyak
-[instagram]: https://www.instagram.com/_aakash_chhabra/
+[website]: https://hackingguy.codes/
+[twitter]: https://twitter.com/_hackingguy
+[instagram]: https://www.instagram.com/_hackingguy
 [linkedin]: https://www.linkedin.com/in/akashchhabra710
