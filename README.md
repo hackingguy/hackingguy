@@ -1,7 +1,7 @@
 ### Hi there, I'm Akash Chhabra - aka [hackingguy][website] 👋
 
-## I love doing Web App Pentesting, Backend Development and Programming!
-- 🔭 I’m currently in college pursuing my B.Tech.
+## I love doing Web App Pentesting and Backend Development!
+- 🔭 I’m currently working as a Software Developer at Gojek.
 - 🌱 I’m love to work in Backend and Penetration Testing stuff.
 - 🥅 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack and learn all day
