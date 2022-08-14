@@ -32,7 +32,7 @@
 
 <img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hackingguy&show_icons=true&hide_border=true" />
 
-[website]: https://hackingguy.codes/
+[website]: https://hackingguy.tech/
 [twitter]: https://twitter.com/_hackingguy
 [instagram]: https://www.instagram.com/_hackingguy
 [linkedin]: https://www.linkedin.com/in/akashchhabra710
