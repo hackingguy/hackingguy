@@ -6,7 +6,7 @@
 - 🥅 Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack and learn all day
 
-[![Visits Badge](https://badges.pufler.dev/visits/hackingguy/hackingguy)](https://hackingguy.tech)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=hackingguy)](https://hackingguy.tech)
 
 ### Connect with me:
 
