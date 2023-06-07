@@ -5,7 +5,7 @@
 - 🌱 I’m love to work in Backend and Penetration Testing stuff.
 - 🥅 Contribute more to Open Source projects
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=hackingguy)](https://hackingguy.tech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhackingguy&label=Profile%20Views&countColor=%23263759)](https://hackingguy.tech)
 
 <img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hackingguy&show_icons=true&hide_border=true"/>
 
